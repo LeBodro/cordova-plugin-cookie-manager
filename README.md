@@ -1,6 +1,6 @@
 ### Cookie Manager for Android ###
 
-This plugins allows you to flush cookies in Android, moving them to persistent memory. iOS is not yet supported.
+This plugins allows you to flush cookies in Android, moving them to persistent memory. Works on iOS but does nothing (calling "flush" wont provoke an error).
 
 ### Installation ###
 
